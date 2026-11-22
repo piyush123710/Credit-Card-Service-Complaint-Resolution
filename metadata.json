@@ -1,0 +1,6 @@
+{
+  "name": "Meridian CardOps — Credit Card Service & Complaint Resolution",
+  "description": "Enterprise credit card customer service, dispute resolution, role-based identity verification, and transaction integrity validation console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
